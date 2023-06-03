@@ -1,0 +1,7 @@
+far-extractor
+data
+.vscode
+dist
+__pycache__
+*.egg-info
+*.far
